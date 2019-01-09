@@ -1,0 +1,2083 @@
+{
+  "maleZ": [
+    {
+      "name": "head",
+      "id": 9,
+      "title": "Head",
+      "level": 0,
+      "depth": 2,
+      "width": 900,
+      "left": 255,
+      "top": 0,
+      "module": "sc-bd-head_head",
+      "parts": [
+        {
+          "name": "scalp",
+          "title": "Scalp",
+          "id": 909,
+          "level": 1,
+          "module": "sc-bd-head_scalp",
+          "parts": []
+        },
+        {
+          "name": "forehead",
+          "title": "Forehead",
+          "id": 904,
+          "level": 1,
+          "module": "sc-bd-head_forehead",
+          "parts": []
+        },
+        {
+          "name": "eyes",
+          "title": "Eye",
+          "id": 902,
+          "level": 1,
+          "module": "sc-bd-head_eyes",
+          "parts": []
+        },
+        {
+          "name": "ear-right",
+          "title": "Ear",
+          "id": 901,
+          "level": 1,
+          "module": "sc-bd-head_ears",
+          "parts": []
+        },
+        {
+          "name": "ear-left",
+          "title": "Ear",
+          "id": 901,
+          "level": 1,
+          "module": "sc-bd-head_ears",
+          "parts": []
+        },
+        {
+          "name": "jaw",
+          "title": "Jaw",
+          "id": 906,
+          "level": 1,
+          "module": "sc-bd-head_jaw ",
+          "parts": []
+        },
+        {
+          "name": "nose",
+          "title": "Nose",
+          "id": 908,
+          "level": 1,
+          "module": "sc-bd-head_nose",
+          "parts": []
+        },
+        {
+          "name": "face-right",
+          "title": "Face",
+          "id": 903,
+          "level": 1,
+          "module": "sc-bd-head_face",
+          "parts": []
+        },
+        {
+          "name": "face-left",
+          "title": "Face",
+          "id": 903,
+          "level": 1,
+          "module": "sc-bd-head_face",
+          "parts": []
+        },
+        {
+          "name": "mouth",
+          "title": "Mouth",
+          "id": 907,
+          "level": 1,
+          "module": "sc-bd-head_mouth",
+          "parts": []
+        }
+      ]
+    },
+    {
+      "name": "neck",
+      "id": 11,
+      "title": "Neck",
+      "level": 0,
+      "depth": 1,
+      "width": 600,
+      "left": 100,
+      "top": 100,
+      "scale": [
+        {
+          "x": 0.325,
+          "y": 0.325
+        },
+        {
+          "x": 0.32,
+          "y": 0.32
+        }
+      ],
+      "translate": [
+        {
+          "x": 428,
+          "y": 125
+        },
+        {
+          "x": 248,
+          "y": 127
+        }
+      ],
+      "module": "sc-bd-neck_neckfr",
+      "parts": []
+    },
+    {
+      "name": "arm-left",
+      "title": "Arm",
+      "id": 2,
+      "level": 0,
+      "depth": 2,
+      "width": 600,
+      "left": 280,
+      "top": 180,
+      "module": "sc-bd-arm_arm",
+      "parts": [
+        {
+          "name": "shoulder-left",
+          "title": "Shoulder",
+          "id": 207,
+          "level": 1,
+          "module": "sc-bd-arm_shoulder",
+          "parts": []
+        },
+        {
+          "name": "armpit-left",
+          "title": "Armpit",
+          "id": 202,
+          "level": 1,
+          "module": "sc-bd-arm_armpit",
+          "parts": []
+        },
+        {
+          "name": "upper-arm-left",
+          "title": "Upper arm",
+          "id": 201,
+          "level": 1,
+          "module": "sc-bd-arm_uparm",
+          "parts": []
+        },
+        {
+          "name": "elbow-left",
+          "title": "Elbow",
+          "id": 203,
+          "level": 1,
+          "module": "sc-bd-arm_elbow",
+          "parts": []
+        },
+        {
+          "name": "forearm-left",
+          "title": "Forearm",
+          "id": 205,
+          "level": 1,
+          "module": "sc-bd-arm_forearm",
+          "parts": []
+        },
+        {
+          "name": "wrist-left",
+          "title": "Wrist",
+          "id": 208,
+          "level": 1,
+          "module": "sc-bd-arm_wrist",
+          "parts": []
+        },
+        {
+          "name": "hand-left",
+          "title": "Hand",
+          "id": 206,
+          "level": 1,
+          "module": "sc-bd-arm_hand",
+          "parts": []
+        },
+        {
+          "name": "fingers-left",
+          "title": "Finger",
+          "id": 204,
+          "level": 1,
+          "module": "sc-bd-arm_fingers",
+          "parts": []
+        }
+      ]
+    },
+    {
+      "name": "arm-right",
+      "title": "Arm",
+      "id": 2,
+      "level": 0,
+      "depth": 2,
+      "width": 600,
+      "left": 0,
+      "top": 180,
+      "module": "sc-bd-arm_arm",
+      "parts": [
+        {
+          "name": "shoulder-right",
+          "title": "Shoulder",
+          "id": 207,
+          "level": 1,
+          "module": "sc-bd-arm_shoulder",
+          "parts": []
+        },
+        {
+          "name": "armpit-right",
+          "title": "Armpit",
+          "id": 202,
+          "level": 1,
+          "module": "sc-bd-arm_armpit",
+          "parts": []
+        },
+        {
+          "name": "upper-arm-right",
+          "title": "Upper arm",
+          "id": 201,
+          "level": 1,
+          "module": "sc-bd-arm_uparm",
+          "parts": []
+        },
+        {
+          "name": "elbow-right",
+          "title": "Elbow",
+          "id": 203,
+          "level": 1,
+          "module": "sc-bd-arm_elbow",
+          "parts": []
+        },
+        {
+          "name": "forearm-right",
+          "title": "Forearm",
+          "id": 205,
+          "level": 1,
+          "module": "sc-bd-arm_forearm",
+          "parts": []
+        },
+        {
+          "name": "wrist-right",
+          "title": "Wrist",
+          "id": 208,
+          "level": 1,
+          "module": "sc-bd-arm_wrist",
+          "parts": []
+        },
+        {
+          "name": "hand-right",
+          "title": "Hand",
+          "id": 206,
+          "level": 1,
+          "module": "sc-bd-arm_hand",
+          "parts": []
+        },
+        {
+          "name": "fingers-right",
+          "title": "Finger",
+          "id": 204,
+          "level": 1,
+          "module": "sc-bd-arm_fingers",
+          "parts": []
+        }
+      ]
+    },
+    {
+      "name": "chest",
+      "title": "Chest",
+      "id": 6,
+      "level": 0,
+      "depth": 2,
+      "width": 900,
+      "left": 250,
+      "top": 180,
+      "module": "sc-bd-chst_chst",
+      "parts": [
+        {
+          "name": "upper-chest",
+          "title": "Upper chest",
+          "id": 602,
+          "level": 1,
+          "module": "sc-bd-chst_upper",
+          "parts": []
+        },
+        {
+          "name": "sternum",
+          "title": "Sternum",
+          "id": 603,
+          "level": 1,
+          "module": "sc-bd-chst_sternum",
+          "parts": []
+        },
+        {
+          "name": "breast-left",
+          "title": "Breast",
+          "id": 601,
+          "level": 1,
+          "module": "sc-bd-chst_breast",
+          "parts": []
+        },
+        {
+          "name": "breast-right",
+          "title": "Breast",
+          "id": 601,
+          "level": 1,
+          "module": "sc-bd-chst_breast",
+          "parts": []
+        },
+        {
+          "name": "chest-inner",
+          "title": "Chest",
+          "id": 6,
+          "level": 1,
+          "module": "sc-bd-chst_chst",
+          "parts": []
+        }
+      ]
+    },
+    {
+      "name": "abdomen",
+      "id": 1,
+      "title": "Abdomen",
+      "level": 0,
+      "depth": 2,
+      "width": 800,
+      "left": 200,
+      "top": 300,
+      "module": "sc-bd-abd_abd",
+      "parts": [
+        {
+          "name": "upper-abdomen",
+          "id": 102,
+          "title": "Upper Abdomen",
+          "level": 1,
+          "module": "sc-bd-abd_upabd",
+          "parts": []
+        },
+        {
+          "name": "lower-abdomen",
+          "id": 101,
+          "title": "Lower Abdomen",
+          "level": 1,
+          "module": "sc-bd-abd_lowabd",
+          "parts": []
+        },
+        {
+          "name": "epigastric",
+          "title": "Epigastric",
+          "id": 103,
+          "level": 1,
+          "module": "sc-bd-abd_epigastric",
+          "parts": []
+        }
+      ]
+    },
+    {
+      "name": "leg-right",
+      "id": 10,
+      "title": "Leg",
+      "level": 0,
+      "depth": 2,
+      "width": 390,
+      "left": 20,
+      "top": 350,
+      "module": "sc-bd-legs_legs",
+      "parts": [
+        {
+          "name": "thigh-right",
+          "title": "Thigh",
+          "id": 1008,
+          "level": 1,
+          "module": "sc-bd-legs_thigh",
+          "parts": []
+        },
+        {
+          "name": "knee-right",
+          "title": "Knee",
+          "id": 1005,
+          "level": 1,
+          "module": "sc-bd-legs_knee",
+          "parts": []
+        },
+        {
+          "name": "shin-right",
+          "id": 1007,
+          "title": "Shin",
+          "level": 1,
+          "module": "sc-bd-legs_shin",
+          "parts": []
+        },
+        {
+          "name": "ankle-right",
+          "title": "Ankle",
+          "id": 1001,
+          "level": 1,
+          "module": "sc-bd-legs_ankle",
+          "parts": []
+        },
+        {
+          "name": "foot-right",
+          "title": "Foot",
+          "id": 1003,
+          "level": 1,
+          "module": "sc-bd-legs_foot",
+          "parts": []
+        },
+        {
+          "name": "toes-right",
+          "title": "Toe",
+          "id": 1009,
+          "level": 1,
+          "module": "sc-bd-legs_toes",
+          "parts": []
+        }
+      ]
+    },
+    {
+      "name": "leg-left",
+      "id": 10,
+      "title": "Leg",
+      "level": 0,
+      "depth": 2,
+      "width": 390,
+      "left": 20,
+      "top": 350,
+      "module": "sc-bd-legs_legs",
+      "parts": [
+        {
+          "name": "thigh-left",
+          "title": "Thigh",
+          "id": 1008,
+          "level": 1,
+          "module": "sc-bd-legs_thigh",
+          "parts": []
+        },
+        {
+          "name": "knee-left",
+          "title": "Knee",
+          "id": 1005,
+          "level": 1,
+          "module": "sc-bd-legs_knee",
+          "parts": []
+        },
+        {
+          "name": "shin-left",
+          "id": 1007,
+          "title": "Shin",
+          "level": 1,
+          "module": "sc-bd-legs_shin",
+          "parts": []
+        },
+        {
+          "name": "ankle-left",
+          "title": "Ankle",
+          "id": 1001,
+          "level": 1,
+          "module": "sc-bd-legs_ankle",
+          "parts": []
+        },
+        {
+          "name": "foot-left",
+          "title": "Foot",
+          "id": 1003,
+          "level": 1,
+          "module": "sc-bd-legs_foot",
+          "parts": []
+        },
+        {
+          "name": "toes-left",
+          "title": "Toe",
+          "id": 1009,
+          "level": 1,
+          "module": "sc-bd-legs_toes",
+          "parts": []
+        }
+      ]
+    },
+    {
+      "name": "pelvis",
+      "title": "Pelvic",
+      "id": 12,
+      "level": 0,
+      "depth": 2,
+      "width": 900,
+      "left": 250,
+      "top": 600,
+      "module": "sc-bd-plv_plv",
+      "parts": [
+        {
+          "name": "lower-pelvis",
+          "title": "Pelvic",
+          "id": 12,
+          "level": 1,
+          "module": "sc-bd-plv_plv",
+          "parts": []
+        },
+        {
+          "name": "hip-right",
+          "title": "Hip",
+          "id": 1203,
+          "level": 1,
+          "module": "sc-bd-plv_hip",
+          "parts": []
+        },
+        {
+          "name": "hip-left",
+          "title": "Hip",
+          "id": 1203,
+          "level": 1,
+          "module": "sc-bd-plv_hip",
+          "parts": []
+        },
+        {
+          "name": "groin-right",
+          "title": "Groin",
+          "id": 1202,
+          "level": 1,
+          "module": "sc-bd-plv_groin",
+          "parts": []
+        },
+        {
+          "name": "groin-left",
+          "title": "Groin",
+          "id": 1202,
+          "level": 1,
+          "module": "sc-bd-plv_groin",
+          "parts": []
+        },
+        {
+          "name": "suprapubic",
+          "title": "Suprapubic",
+          "id": 1204,
+          "level": 1,
+          "module": "sc-bd-plv_suprapubic",
+          "parts": []
+        },
+        {
+          "name": "genitals",
+          "title": "Genital",
+          "id": 1201,
+          "level": 1,
+          "module": "sc-bd-plv_genitals",
+          "parts": []
+        }
+      ]
+    },
+    {
+      "name": "skin",
+      "id": 13,
+      "title": "Skin",
+      "level": 0,
+      "depth": 1,
+      "module": "sc-bd_skin",
+      "parts": []
+    },
+    {
+      "name": "general",
+      "id": 7,
+      "title": "General",
+      "level": 0,
+      "depth": 1,
+      "module": "sc-bd_general",
+      "parts": []
+    }
+  ],
+  "maleF": [
+    {
+      "name": "head",
+      "title": "Head",
+      "id": 905,
+      "level": 0,
+      "depth": 1,
+      "width": 900,
+      "left": 255,
+      "top": 0,
+      "scale": [
+        {
+          "x": 0.32,
+          "y": 0.3
+        },
+        {
+          "x": 0.29,
+          "y": 0.29
+        }
+      ],
+      "translate": [
+        {
+          "x": 430,
+          "y": 2
+        },
+        {
+          "x": 272,
+          "y": 52
+        }
+      ],
+      "module": "sc-bd-head_headbk",
+      "parts": []
+    },
+    {
+      "name": "neck",
+      "title": "Neck",
+      "id": 11,
+      "level": 0,
+      "depth": 1,
+      "width": 600,
+      "left": 100,
+      "top": 100,
+      "scale": [
+        {
+          "x": 0.3,
+          "y": 0.3
+        },
+        {
+          "x": 0.3,
+          "y": 0.3
+        }
+      ],
+      "translate": [
+        {
+          "x": 458,
+          "y": 156
+        },
+        {
+          "x": 258,
+          "y": 194
+        }
+      ],
+      "module": "sc-bd-neck_neckbk",
+      "parts": []
+    },
+    {
+      "name": "back",
+      "title": "Back",
+      "id": 4,
+      "level": 0,
+      "depth": 2,
+      "width": 600,
+      "left": 100,
+      "top": 100,
+      "module": "sc-bd-back_back",
+      "parts": [
+        {
+          "name": "back-upper",
+          "title": "Upper back",
+          "id": 401,
+          "level": 1,
+          "module": "sc-bd-back_upper",
+          "parts": []
+        },
+        {
+          "name": "back-inner",
+          "title": "Back",
+          "id": 4,
+          "level": 1,
+          "module": "sc-bd-back_back",
+          "parts": []
+        },
+        {
+          "name": "back-lower",
+          "title": "Lower back",
+          "id": 403,
+          "level": 1,
+          "module": "sc-bd-back_lumbar",
+          "parts": []
+        },
+        {
+          "name": "flank-left",
+          "title": "Flank",
+          "id": 402,
+          "level": 1,
+          "module": "sc-bd-back_flank",
+          "parts": []
+        },
+        {
+          "name": "flank-right",
+          "title": "Flank",
+          "id": 402,
+          "level": 1,
+          "module": "sc-bd-back_flank",
+          "parts": []
+        },
+        {
+          "name": "tailbone",
+          "title": "Tailbone",
+          "id": 404,
+          "level": 1,
+          "module": "sc-bd-back_tailbone",
+          "parts": []
+        }
+      ]
+    },
+    {
+      "name": "arm-right",
+      "title": "Arm",
+      "id": 2,
+      "level": 0,
+      "depth": 2,
+      "width": 600,
+      "left": 280,
+      "top": 180,
+      "module": "sc-bd-arm_armbk",
+      "parts": [
+        {
+          "name": "shoulder-right",
+          "title": "Shoulder",
+          "id": 207,
+          "level": 1,
+          "module": "sc-bd-arm_shoulderbk",
+          "parts": []
+        },
+        {
+          "name": "upper-arm-right",
+          "title": "Upper arm",
+          "id": 201,
+          "level": 1,
+          "module": "sc-bd-arm_uparmbk",
+          "parts": []
+        },
+        {
+          "name": "elbow-right",
+          "title": "Elbow",
+          "id": 203,
+          "level": 1,
+          "module": "sc-bd-arm_elbowbk",
+          "parts": []
+        },
+        {
+          "name": "forearm-right",
+          "title": "Forearm",
+          "id": 205,
+          "level": 1,
+          "module": "sc-bd-arm_forearmbk",
+          "parts": []
+        },
+        {
+          "name": "wrist-right",
+          "title": "Wrist",
+          "id": 208,
+          "level": 1,
+          "module": "sc-bd-arm_wristbk",
+          "parts": []
+        },
+        {
+          "name": "hand-inner-right",
+          "title": "Hand",
+          "id": 206,
+          "level": 1,
+          "module": "sc-bd-arm_handbk",
+          "parts": []
+        },
+        {
+          "name": "fingers-right",
+          "title": "Finger",
+          "id": 204,
+          "level": 1,
+          "module": "sc-bd-arm_fingersbk",
+          "parts": []
+        }
+      ]
+    },
+    {
+      "name": "arm-left",
+      "title": "Arm",
+      "id": 2,
+      "level": 0,
+      "depth": 2,
+      "width": 600,
+      "left": 0,
+      "top": 180,
+      "module": "sc-bd-arm_armbk",
+      "parts": [
+        {
+          "name": "shoulder-left",
+          "title": "Shoulder",
+          "id": 207,
+          "level": 1,
+          "module": "sc-bd-arm_shoulderbk",
+          "parts": []
+        },
+        {
+          "name": "upper-arm-left",
+          "title": "Upper arm",
+          "id": 201,
+          "level": 1,
+          "module": "sc-bd-arm_uparmbk",
+          "parts": []
+        },
+        {
+          "name": "elbow-left",
+          "title": "Elbow",
+          "id": 203,
+          "level": 1,
+          "module": "sc-bd-arm_elbowbk",
+          "parts": []
+        },
+        {
+          "name": "forearm-left",
+          "title": "Forearm",
+          "id": 205,
+          "level": 1,
+          "module": "sc-bd-arm_forearmbk",
+          "parts": []
+        },
+        {
+          "name": "wrist-left",
+          "title": "Wrist",
+          "id": 208,
+          "level": 1,
+          "module": "sc-bd-arm_wristbk",
+          "parts": []
+        },
+        {
+          "name": "hand-inner-left",
+          "title": "Hand",
+          "id": 206,
+          "level": 1,
+          "module": "sc-bd-arm_handbk",
+          "parts": []
+        },
+        {
+          "name": "fingers-left",
+          "title": "Finger",
+          "id": 204,
+          "level": 1,
+          "module": "sc-bd-arm_fingersbk",
+          "parts": []
+        }
+      ]
+    },
+    {
+      "name": "buttock",
+      "title": "Buttock",
+      "id": 5,
+      "level": 0,
+      "depth": 2,
+      "width": 900,
+      "left": 250,
+      "top": 600,
+      "module": "sc-bd_buttocks_butt",
+      "parts": [
+        {
+          "name": "buttock-inner",
+          "title": "Buttock",
+          "id": 5,
+          "level": 1,
+          "module": "sc-bd_buttocks_butt",
+          "parts": []
+        },
+        {
+          "name": "rectum",
+          "title": "Rectum",
+          "id": 501,
+          "level": 1,
+          "module": "sc-bd_buttocks_rctm",
+          "parts": []
+        },
+        {
+          "name": "hip-left",
+          "title": "Hip",
+          "id": 1203,
+          "level": 1,
+          "module": "sc-bd-plv_hip",
+          "parts": []
+        },
+        {
+          "name": "hip-right",
+          "title": "Hip",
+          "id": 1203,
+          "level": 1,
+          "module": "sc-bd-plv_hip",
+          "parts": []
+        }
+      ]
+    },
+    {
+      "name": "leg-right",
+      "title": "Leg",
+      "id": 10,
+      "level": 0,
+      "depth": 2,
+      "width": 390,
+      "left": 20,
+      "top": 350,
+      "module": "sc-bd-legs_legsbk",
+      "parts": [
+        {
+          "name": "hamstring-right",
+          "title": "Hamstring",
+          "id": 1004,
+          "level": 1,
+          "module": "sc-bd-legs_hmstrng",
+          "parts": []
+        },
+        {
+          "name": "popliteal-right",
+          "title": "Popliteal",
+          "id": 1006,
+          "level": 1,
+          "module": "sc-bd-legs_popliteal",
+          "parts": []
+        },
+        {
+          "name": "calf-right",
+          "title": "Calf",
+          "id": 1002,
+          "level": 1,
+          "module": "sc-bd-legs_calf",
+          "parts": []
+        },
+        {
+          "name": "ankle-right",
+          "title": "Ankle",
+          "id": 1001,
+          "level": 1,
+          "module": "sc-bd-legs_anklebk",
+          "parts": []
+        },
+        {
+          "name": "foot-right",
+          "title": "Foot",
+          "id": 1003,
+          "level": 1,
+          "module": "sc-bd-legs_footbk",
+          "parts": []
+        },
+        {
+          "name": "toes-right",
+          "title": "Toe",
+          "id": 1009,
+          "level": 1,
+          "module": "sc-bd-legs_toesbk",
+          "parts": []
+        }
+      ]
+    },
+    {
+      "name": "leg-left",
+      "title": "Leg",
+      "id": 10,
+      "level": 0,
+      "depth": 2,
+      "width": 390,
+      "left": 20,
+      "top": 350,
+      "module": "sc-bd-legs_legsbk",
+      "parts": [
+        {
+          "name": "hamstring-left",
+          "title": "Hamstring",
+          "id": 1004,
+          "level": 1,
+          "module": "sc-bd-legs_hmstrng",
+          "parts": []
+        },
+        {
+          "name": "popliteal-left",
+          "title": "Popliteal",
+          "id": 1006,
+          "level": 1,
+          "module": "sc-bd-legs_popliteal",
+          "parts": []
+        },
+        {
+          "name": "calf-left",
+          "title": "Calf",
+          "id": 1002,
+          "level": 1,
+          "module": "sc-bd-legs_calf",
+          "parts": []
+        },
+        {
+          "name": "ankle-left",
+          "title": "Ankle",
+          "id": 1001,
+          "level": 1,
+          "module": "sc-bd-legs_anklebk",
+          "parts": []
+        },
+        {
+          "name": "foot-left",
+          "title": "Foot",
+          "id": 1003,
+          "level": 1,
+          "module": "sc-bd-legs_footbk",
+          "parts": []
+        },
+        {
+          "name": "toes-left",
+          "title": "Toe",
+          "id": 1009,
+          "level": 1,
+          "module": "sc-bd-legs_toesbk",
+          "parts": []
+        }
+      ]
+    },
+    {
+      "name": "skin",
+      "id": 13,
+      "title": "Skin",
+      "level": 0,
+      "depth": 1,
+      "module": "sc-bd_skin",
+      "parts": []
+    },
+    {
+      "name": "general",
+      "id": 7,
+      "title": "General",
+      "level": 0,
+      "depth": 1,
+      "module": "sc-bd_general",
+      "parts": []
+    }
+  ],
+  "feMaleZ": [
+    {
+      "name": "head",
+      "title": "Head",
+      "id": 9,
+      "level": 0,
+      "depth": 2,
+      "width": 900,
+      "left": 255,
+      "top": 0,
+      "module": "sc-bd-head_head",
+      "parts": [
+        {
+          "name": "scalp",
+          "title": "Scalp",
+          "id": 909,
+          "level": 1,
+          "module": "sc-bd-head_scalp",
+          "parts": []
+        },
+        {
+          "name": "forehead",
+          "title": "Forehead",
+          "id": 904,
+          "level": 1,
+          "module": "sc-bd-head_forehead",
+          "parts": []
+        },
+        {
+          "name": "eyes",
+          "title": "Eye",
+          "id": 902,
+          "level": 1,
+          "module": "sc-bd-head_eyes",
+          "parts": []
+        },
+        {
+          "name": "nose",
+          "title": "Nose",
+          "id": 908,
+          "level": 1,
+          "module": "sc-bd-head_nose",
+          "parts": []
+        },
+        {
+          "name": "face",
+          "title": "Face",
+          "id": 903,
+          "level": 1,
+          "module": "sc-bd-head_face",
+          "parts": []
+        },
+        {
+          "name": "mouth",
+          "title": "Mouth",
+          "id": 907,
+          "level": 1,
+          "module": "sc-bd-head_mouth",
+          "parts": []
+        },
+        {
+          "name": "jaw",
+          "title": "Jaw",
+          "id": 906,
+          "level": 1,
+          "module": "sc-bd-head_jaw",
+          "parts": []
+        },
+        {
+          "name": "ear-left",
+          "title": "Ear",
+          "id": 901,
+          "level": 1,
+          "module": "sc-bd-head_ears",
+          "parts": []
+        },
+        {
+          "name": "ear-right",
+          "title": "Ear",
+          "id": 901,
+          "level": 1,
+          "module": "sc-bd-head_ears",
+          "parts": []
+        }
+      ],
+      "$$hashKey": "object:19"
+    },
+    {
+      "name": "neck",
+      "title": "Neck",
+      "id": 11,
+      "level": 0,
+      "depth": 1,
+      "width": 600,
+      "left": 100,
+      "top": 100,
+      "scale": [
+        {
+          "x": 0.35,
+          "y": 0.35
+        },
+        {
+          "x": 0.37,
+          "y": 0.37
+        }
+      ],
+      "translate": [
+        {
+          "x": 381,
+          "y": 115
+        },
+        {
+          "x": 194,
+          "y": 108
+        }
+      ],
+      "module": "sc-bd-neck_neckfr",
+      "parts": [],
+      "$$hashKey": "object:20"
+    },
+    {
+      "name": "chest",
+      "title": "Chest",
+      "id": 6,
+      "level": 0,
+      "depth": 2,
+      "width": 600,
+      "left": 100,
+      "top": 100,
+      "module": "sc-bd-chst_chst",
+      "parts": [
+        {
+          "name": "upper-chest",
+          "title": "Upper chest",
+          "id": 602,
+          "level": 1,
+          "module": "sc-bd-chst_upper",
+          "parts": []
+        },
+        {
+          "name": "sternum",
+          "title": "Sternum",
+          "id": 603,
+          "level": 1,
+          "module": "sc-bd-chst_sternum",
+          "parts": []
+        },
+        {
+          "name": "left-breast",
+          "title": "Breast",
+          "id": 601,
+          "level": 1,
+          "module": "sc-bd-chst_breast",
+          "parts": []
+        },
+        {
+          "name": "right-breast",
+          "title": "Breast",
+          "id": 601,
+          "level": 1,
+          "module": "sc-bd-chst_breast",
+          "parts": []
+        },
+        {
+          "name": "chest-inner",
+          "title": "Chest",
+          "id": 6,
+          "level": 1,
+          "module": "sc-bd-chst_chst",
+          "parts": []
+        }
+      ],
+      "$$hashKey": "object:21"
+    },
+    {
+      "name": "arm-right",
+      "title": "Arm",
+      "id": 2,
+      "level": 0,
+      "depth": 2,
+      "width": 600,
+      "left": 0,
+      "top": 180,
+      "module": "sc-bd-arm_arm",
+      "parts": [
+        {
+          "name": "shoulder-right",
+          "title": "Shoulder",
+          "id": 207,
+          "level": 1,
+          "module": "sc-bd-arm_shoulder",
+          "parts": []
+        },
+        {
+          "name": "armpit-right",
+          "title": "Armpit",
+          "id": 202,
+          "level": 1,
+          "module": "sc-bd-arm_armpit",
+          "parts": []
+        },
+        {
+          "name": "upperarm-right",
+          "title": "Upper arm",
+          "id": 201,
+          "level": 1,
+          "module": "sc-bd-arm_uparm",
+          "parts": []
+        },
+        {
+          "name": "elbow-right",
+          "title": "Elbow",
+          "id": 203,
+          "level": 1,
+          "module": "sc-bd-arm_elbow",
+          "parts": []
+        },
+        {
+          "name": "forearm-right",
+          "title": "Forearm",
+          "id": 205,
+          "level": 1,
+          "module": "sc-bd-arm_forearm",
+          "parts": []
+        },
+        {
+          "name": "wrist-right",
+          "title": "Wrist",
+          "id": 208,
+          "level": 1,
+          "module": "sc-bd-arm_wrist",
+          "parts": []
+        },
+        {
+          "name": "hand-right",
+          "title": "Hand",
+          "id": 206,
+          "level": 1,
+          "module": "sc-bd-arm_hand",
+          "parts": []
+        },
+        {
+          "name": "fingers-right",
+          "title": "Finger",
+          "id": 204,
+          "level": 1,
+          "module": "sc-bd-arm_fingers",
+          "parts": []
+        }
+      ],
+      "$$hashKey": "object:22",
+      "duplicate": true
+    },
+    {
+      "name": "arm-left",
+      "title": "Arm",
+      "id": 2,
+      "level": 0,
+      "depth": 2,
+      "width": 600,
+      "left": 280,
+      "top": 180,
+      "module": "sc-bd-arm_arm",
+      "parts": [
+        {
+          "name": "shoulder-left",
+          "title": "Shoulder",
+          "id": 207,
+          "level": 1,
+          "module": "sc-bd-arm_shoulder",
+          "parts": []
+        },
+        {
+          "name": "armpit-left",
+          "title": "Armpit",
+          "id": 202,
+          "level": 1,
+          "module": "sc-bd-arm_armpit",
+          "parts": []
+        },
+        {
+          "name": "upperarm-left",
+          "title": "Upper arm",
+          "id": 201,
+          "level": 1,
+          "module": "sc-bd-arm_uparm",
+          "parts": []
+        },
+        {
+          "name": "elbow-left",
+          "title": "Elbow",
+          "id": 203,
+          "level": 1,
+          "module": "sc-bd-arm_elbow",
+          "parts": []
+        },
+        {
+          "name": "forearm-left",
+          "title": "Forearm",
+          "id": 205,
+          "level": 1,
+          "module": "sc-bd-arm_forearm",
+          "parts": []
+        },
+        {
+          "name": "wrist-left",
+          "title": "Wrist",
+          "id": 208,
+          "level": 1,
+          "module": "sc-bd-arm_wrist",
+          "parts": []
+        },
+        {
+          "name": "hand-left",
+          "title": "Hand",
+          "id": 206,
+          "level": 1,
+          "module": "sc-bd-arm_hand",
+          "parts": []
+        },
+        {
+          "name": "fingers-left",
+          "title": "Finger",
+          "id": 204,
+          "level": 1,
+          "module": "sc-bd-arm_fingers",
+          "parts": []
+        }
+      ],
+      "duplicate": true
+    },
+    {
+      "name": "abdomen",
+      "title": "Abdomen",
+      "id": 1,
+      "level": 0,
+      "depth": 2,
+      "width": 600,
+      "left": 100,
+      "top": 100,
+      "module": "sc-bd-abd_abd",
+      "parts": [
+        {
+          "name": "inner-abdomen",
+          "title": "Abdomen",
+          "id": 1,
+          "level": 1,
+          "module": "sc-bd-abd_abd",
+          "parts": []
+        },
+        {
+          "name": "epigastric",
+          "title": "Epigastric",
+          "id": 103,
+          "level": 1,
+          "module": "sc-bd-abd_epigastric",
+          "parts": []
+        },
+        {
+          "name": "upper-abdomen",
+          "title": "Upper abdomen",
+          "id": 102,
+          "level": 1,
+          "module": "sc-bd-abd_upabd",
+          "parts": []
+        },
+        {
+          "name": "lower-abdomen",
+          "title": "Lower abdomen",
+          "id": 101,
+          "level": 1,
+          "module": "sc-bd-abd_lowabd",
+          "parts": []
+        }
+      ],
+      "$$hashKey": "object:23"
+    },
+    {
+      "name": "pelvis",
+      "title": "Pelvic",
+      "id": 12,
+      "level": 0,
+      "depth": 2,
+      "width": 600,
+      "left": 100,
+      "top": 100,
+      "module": "sc-bd-plv_plv",
+      "parts": [
+        {
+          "name": "pelvis-inner",
+          "title": "Pelvic",
+          "id": 12,
+          "level": 1,
+          "module": "sc-bd-plv_plv",
+          "parts": []
+        },
+        {
+          "name": "groin-left",
+          "title": "Groin",
+          "id": 1202,
+          "level": 1,
+          "module": "sc-bd-plv_groin",
+          "parts": []
+        },
+        {
+          "name": "groin-right",
+          "title": "Groin",
+          "id": 1202,
+          "level": 1,
+          "module": "sc-bd-plv_groin",
+          "parts": []
+        },
+        {
+          "name": "genitals",
+          "title": "Genital",
+          "id": 1201,
+          "level": 1,
+          "module": "sc-bd-plv_genitals",
+          "parts": []
+        },
+        {
+          "name": "hip-right",
+          "title": "Hip",
+          "id": 1203,
+          "level": 1,
+          "module": "sc-bd-plv_hip",
+          "parts": []
+        },
+        {
+          "name": "hip-left",
+          "title": "Hip",
+          "id": 1203,
+          "level": 1,
+          "module": "sc-bd-plv_hip",
+          "parts": []
+        },
+        {
+          "name": "suprapubic",
+          "title": "Suprapubic",
+          "id": 1204,
+          "level": 1,
+          "module": "sc-bd-plv_suprapubic",
+          "parts": []
+        }
+      ],
+      "$$hashKey": "object:24"
+    },
+    {
+      "name": "leg-left",
+      "title": "Leg",
+      "id": 10,
+      "level": 0,
+      "depth": 2,
+      "width": 400,
+      "left": 220,
+      "top": 500,
+      "module": "sc-bd-legs_legs",
+      "parts": [
+        {
+          "name": "thigh-left",
+          "title": "Thigh",
+          "id": 1008,
+          "level": 1,
+          "module": "sc-bd-legs_thigh",
+          "parts": []
+        },
+        {
+          "name": "knee-left",
+          "title": "Knee",
+          "id": 1005,
+          "level": 1,
+          "module": "sc-bd-legs_knee",
+          "parts": []
+        },
+        {
+          "name": "shin-left",
+          "title": "Shin",
+          "id": 1007,
+          "level": 1,
+          "module": "sc-bd-legs_shin",
+          "parts": []
+        },
+        {
+          "name": "ankle-left",
+          "title": "Ankle",
+          "id": 1001,
+          "level": 1,
+          "module": "sc-bd-legs_ankle",
+          "parts": []
+        },
+        {
+          "name": "foot-left",
+          "title": "Foot",
+          "id": 1003,
+          "level": 1,
+          "module": "sc-bd-legs_foot",
+          "parts": []
+        },
+        {
+          "name": "toes-left",
+          "title": "Toe",
+          "id": 1009,
+          "level": 1,
+          "module": "sc-bd-legs_toes",
+          "parts": []
+        }
+      ],
+      "$$hashKey": "object:25",
+      "duplicate": true
+    },
+    {
+      "name": "leg-right",
+      "title": "Leg",
+      "id": 10,
+      "level": 0,
+      "depth": 2,
+      "width": 400,
+      "left": 220,
+      "top": 500,
+      "module": "sc-bd-legs_legs",
+      "parts": [
+        {
+          "name": "thigh-right",
+          "title": "Thigh",
+          "id": 1008,
+          "level": 1,
+          "module": "sc-bd-legs_thigh",
+          "parts": []
+        },
+        {
+          "name": "knee-right",
+          "title": "Knee",
+          "id": 1005,
+          "level": 1,
+          "module": "sc-bd-legs_knee",
+          "parts": []
+        },
+        {
+          "name": "shin-right",
+          "title": "Shin",
+          "id": 1007,
+          "level": 1,
+          "module": "sc-bd-legs_shin",
+          "parts": []
+        },
+        {
+          "name": "ankle-right",
+          "title": "Ankle",
+          "id": 1001,
+          "level": 1,
+          "module": "sc-bd-legs_ankle",
+          "parts": []
+        },
+        {
+          "name": "foot-right",
+          "title": "Foot",
+          "id": 1003,
+          "level": 1,
+          "module": "sc-bd-legs_foot",
+          "parts": []
+        },
+        {
+          "name": "toes-right",
+          "title": "Toe",
+          "id": 1009,
+          "level": 1,
+          "module": "sc-bd-legs_toes",
+          "parts": []
+        }
+      ],
+      "duplicate": true
+    },
+    {
+      "name": "skin",
+      "id": 13,
+      "title": "Skin",
+      "level": 0,
+      "depth": 1,
+      "module": "sc-bd_skin",
+      "parts": []
+    },
+    {
+      "name": "general",
+      "id": 7,
+      "title": "General",
+      "level": 0,
+      "depth": 1,
+      "module": "sc-bd_general",
+      "parts": []
+    }
+  ],
+  "feMaleF": [
+    {
+      "name": "head",
+      "id": 905,
+      "title": "Head",
+      "module": "sc-bd-head_headbk",
+      "level": 0,
+      "depth": 1,
+      "width": 900,
+      "left": 255,
+      "top": 0,
+      "scale": [
+        {
+          "x": 0.32,
+          "y": 0.32
+        },
+        {
+          "x": 0.26,
+          "y": 0.26
+        }
+      ],
+      "translate": [
+        {
+          "x": 428,
+          "y": 0
+        },
+        {
+          "x": 310,
+          "y": 33
+        }
+      ],
+      "parts": [],
+      "$$hashKey": "object:53"
+    },
+    {
+      "name": "neck",
+      "id": 11,
+      "module": "sc-bd-neck_neckbk",
+      "title": "Neck",
+      "level": 0,
+      "depth": 1,
+      "width": 600,
+      "left": 100,
+      "top": 100,
+      "scale": [
+        {
+          "x": 0.31,
+          "y": 0.31
+        },
+        {
+          "x": 0.26,
+          "y": 0.26
+        }
+      ],
+      "translate": [
+        {
+          "x": 440,
+          "y": 120
+        },
+        {
+          "x": 305,
+          "y": 150
+        }
+      ],
+      "parts": [],
+      "$$hashKey": "object:54"
+    },
+    {
+      "name": "arm-left",
+      "title": "Arm",
+      "module": "sc-bd-arm_armbk",
+      "id": 2,
+      "level": 0,
+      "depth": 2,
+      "width": 600,
+      "left": 0,
+      "top": 100,
+      "parts": [
+        {
+          "name": "shoulder-left",
+          "title": "Shoulder",
+          "id": 207,
+          "level": 1,
+          "module": "sc-bd-arm_shoulderbk",
+          "parts": []
+        },
+        {
+          "name": "upper-arm-left",
+          "title": "Upper arm",
+          "id": 201,
+          "level": 1,
+          "module": "sc-bd-arm_uparmbk",
+          "parts": []
+        },
+        {
+          "name": "elbow-left",
+          "title": "Elbow",
+          "id": 203,
+          "level": 1,
+          "module": "sc-bd-arm_elbowbk",
+          "parts": []
+        },
+        {
+          "name": "forearm-left",
+          "title": "Forearm",
+          "id": 205,
+          "level": 1,
+          "module": "sc-bd-arm_forearmbk",
+          "parts": []
+        },
+        {
+          "name": "wrist-left",
+          "title": "Wrist",
+          "id": 208,
+          "level": 1,
+          "module": "sc-bd-arm_wristbk",
+          "parts": []
+        },
+        {
+          "name": "hand-inner-left",
+          "title": "Hand",
+          "id": 206,
+          "level": 1,
+          "module": "sc-bd-arm_handbk",
+          "parts": []
+        },
+        {
+          "name": "fingers-left",
+          "title": "Finger",
+          "id": 204,
+          "level": 1,
+          "module": "sc-bd-arm_fingersbk",
+          "parts": []
+        }
+      ],
+      "$$hashKey": "object:55",
+      "duplicate": true
+    },
+    {
+      "name": "arm-right",
+      "title": "Arm",
+      "id": 2,
+      "module": "sc-bd-arm_armbk",
+      "level": 0,
+      "depth": 2,
+      "width": 600,
+      "left": 220,
+      "top": 100,
+      "parts": [
+        {
+          "name": "shoulder-right",
+          "title": "Shoulder",
+          "id": 207,
+          "level": 1,
+          "module": "sc-bd-arm_shoulderbk",
+          "parts": []
+        },
+        {
+          "name": "upper-arm-right",
+          "title": "Upper arm",
+          "id": 201,
+          "level": 1,
+          "module": "sc-bd-arm_uparmbk",
+          "parts": []
+        },
+        {
+          "name": "elbow-right",
+          "title": "Elbow",
+          "id": 203,
+          "level": 1,
+          "module": "sc-bd-arm_elbowbk",
+          "parts": []
+        },
+        {
+          "name": "forearm-right",
+          "title": "Forearm",
+          "id": 205,
+          "level": 1,
+          "module": "sc-bd-arm_forearmbk",
+          "parts": []
+        },
+        {
+          "name": "wrist-right",
+          "title": "Wrist",
+          "id": 208,
+          "level": 1,
+          "module": "sc-bd-arm_wristbk",
+          "parts": []
+        },
+        {
+          "name": "hand-inner-right",
+          "title": "Hand",
+          "id": 206,
+          "level": 1,
+          "module": "sc-bd-arm_handbk",
+          "parts": []
+        },
+        {
+          "name": "fingers-right",
+          "title": "Finger",
+          "id": 204,
+          "level": 1,
+          "module": "sc-bd-arm_fingersbk",
+          "parts": []
+        }
+      ],
+      "duplicate": true
+    },
+    {
+      "name": "back",
+      "id": 4,
+      "module": "sc-bd-back_back",
+      "title": "Back",
+      "level": 0,
+      "depth": 2,
+      "width": 600,
+      "left": 100,
+      "top": 100,
+      "parts": [
+        {
+          "name": "back-upper",
+          "title": "Upper back",
+          "id": 401,
+          "level": 1,
+          "module": "sc-bd-back_upper",
+          "parts": []
+        },
+        {
+          "name": "back-inner",
+          "title": "Back",
+          "id": 4,
+          "level": 1,
+          "module": "sc-bd-back_back",
+          "parts": []
+        },
+        {
+          "name": "back-lower",
+          "title": "Lower back",
+          "id": 403,
+          "level": 1,
+          "module": "sc-bd-back_lumbar",
+          "parts": []
+        },
+        {
+          "name": "flank-left",
+          "title": "Flank",
+          "id": 402,
+          "level": 1,
+          "module": "sc-bd-back_flank",
+          "parts": []
+        },
+        {
+          "name": "flank-right",
+          "title": "Flank",
+          "id": 402,
+          "level": 1,
+          "module": "sc-bd-back_flank",
+          "parts": []
+        },
+        {
+          "name": "tailbone",
+          "title": "Tailbone",
+          "id": 404,
+          "level": 1,
+          "module": "sc-bd-back_tailbone",
+          "parts": []
+        }
+      ],
+      "$$hashKey": "object:56"
+    },
+    {
+      "name": "buttock",
+      "title": "Buttock",
+      "id": 5,
+      "module": "sc-bd_buttocks_butt",
+      "level": 0,
+      "depth": 2,
+      "width": 900,
+      "left": 250,
+      "top": 500,
+      "parts": [
+        {
+          "name": "buttock-inner",
+          "title": "Buttock",
+          "id": 5,
+          "level": 1,
+          "module": "sc-bd_buttocks_butt",
+          "parts": []
+        },
+        {
+          "name": "rectum",
+          "title": "Rectum",
+          "id": 501,
+          "level": 1,
+          "module": "sc-bd_buttocks_rctm",
+          "parts": []
+        },
+        {
+          "name": "hip-left",
+          "title": "Hip",
+          "id": 1203,
+          "level": 1,
+          "module": "sc-bd-plv_hip",
+          "parts": []
+        },
+        {
+          "name": "hip-right",
+          "title": "Hip",
+          "id": 1203,
+          "level": 1,
+          "module": "sc-bd-plv_hip",
+          "parts": []
+        }
+      ],
+      "$$hashKey": "object:57"
+    },
+    {
+      "name": "leg-right",
+      "id": 10,
+      "module": "sc-bd-legs_legsbk",
+      "title": "Leg",
+      "level": 0,
+      "depth": 2,
+      "width": 390,
+      "left": 20,
+      "top": 350,
+      "parts": [
+        {
+          "name": "hamstring-right",
+          "title": "Hamstring",
+          "id": 1004,
+          "level": 1,
+          "module": "sc-bd-legs_hmstrng",
+          "parts": []
+        },
+        {
+          "name": "popliteal-right",
+          "title": "Popliteal",
+          "id": 1006,
+          "level": 1,
+          "module": "sc-bd-legs_popliteal",
+          "parts": []
+        },
+        {
+          "name": "calf-right",
+          "title": "Calf",
+          "id": 1002,
+          "level": 1,
+          "module": "sc-bd-legs_calf",
+          "parts": []
+        },
+        {
+          "name": "ankle-right",
+          "title": "Ankle",
+          "id": 1001,
+          "level": 1,
+          "module": "sc-bd-legs_anklebk",
+          "parts": []
+        },
+        {
+          "name": "foot-right",
+          "title": "Foot",
+          "id": 1003,
+          "level": 1,
+          "module": "sc-bd-legs_footbk",
+          "parts": []
+        },
+        {
+          "name": "toes-right",
+          "title": "Toe",
+          "id": 1009,
+          "level": 1,
+          "module": "sc-bd-legs_toesbk",
+          "parts": []
+        }
+      ],
+      "$$hashKey": "object:58",
+      "duplicate": true
+    },
+    {
+      "name": "leg-left",
+      "id": 10,
+      "title": "Leg",
+      "module": "sc-bd-legs_legsbk",
+      "level": 0,
+      "depth": 2,
+      "width": 390,
+      "left": 20,
+      "top": 350,
+      "parts": [
+        {
+          "name": "hamstring-left",
+          "title": "Hamstring",
+          "id": 1004,
+          "level": 1,
+          "module": "sc-bd-legs_hmstrng",
+          "parts": []
+        },
+        {
+          "name": "popliteal-left",
+          "title": "Popliteal",
+          "id": 1006,
+          "level": 1,
+          "module": "sc-bd-legs_popliteal",
+          "parts": []
+        },
+        {
+          "name": "calf-left",
+          "title": "Calf",
+          "id": 1002,
+          "level": 1,
+          "module": "sc-bd-legs_calf",
+          "parts": []
+        },
+        {
+          "name": "ankle-left",
+          "title": "Ankle",
+          "id": 1001,
+          "level": 1,
+          "module": "sc-bd-legs_anklebk",
+          "parts": []
+        },
+        {
+          "name": "foot-left",
+          "title": "Foot",
+          "id": 1003,
+          "level": 1,
+          "module": "sc-bd-legs_footbk",
+          "parts": []
+        },
+        {
+          "name": "toes-left",
+          "title": "Toe",
+          "id": 1009,
+          "level": 1,
+          "module": "sc-bd-legs_toesbk",
+          "parts": []
+        }
+      ],
+      "duplicate": true
+    },
+    {
+      "name": "skin",
+      "id": 13,
+      "title": "Skin",
+      "level": 0,
+      "depth": 1,
+      "module": "sc-bd_skin",
+      "parts": []
+    },
+    {
+      "name": "general",
+      "id": 7,
+      "title": "General",
+      "level": 0,
+      "depth": 1,
+      "module": "sc-bd_general",
+      "parts": []
+    }
+  ]
+}
